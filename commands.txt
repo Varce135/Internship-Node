@@ -1,0 +1,9 @@
+asdas
+git init
+git add filename
+git add .
+git status
+git commit -m "message"
+git pull
+git push
+git log --all
